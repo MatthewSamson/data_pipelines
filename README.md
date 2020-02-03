@@ -1,5 +1,5 @@
 # data_pipelines
-This repository contains most of my work on data analysis and building data pipelines using different languages, tools and frameworks.
+Work on data analysis and building data pipelines using different languages, tools and frameworks.
 
 # SQL files:
 SQL file 1 contains script to load the required database, SQL files 2 to 4 contain procedures to manipulate and modify the loaded database.
